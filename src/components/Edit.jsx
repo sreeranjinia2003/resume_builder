@@ -9,7 +9,7 @@ import MenuItem from '@mui/material/MenuItem';
 import FormControl from '@mui/material/FormControl';
 import Select from '@mui/material/Select';
 import jobRole from '../assets/jobRole.json'
-import { editResumeAPI } from '../api/allAPI';
+import { editResumeAPI } from '../api/allApi';
 
 
 const style = {
