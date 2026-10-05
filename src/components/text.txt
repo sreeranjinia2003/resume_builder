@@ -1,0 +1,37 @@
+while hovering,text provide cheyyan use tooltip(in material ui)
+
+page redirect -no need to refresh page.so <Link></> is used for that purpose.it is provided by react router dom.
+
+for choosing icons-react icons (font awsome also works)
+
+material ui
+---------------
+-stepper
+-textfeild
+-paper(to get a canvas effect)
+
+-json server:json file can converted to a server
+
+
+
+
+api call for all cases using axios(ie all components can do api call using this)
+-parameter 
+    -url(to communicate)
+    -http method
+    -data(data has to be paased in the req body)
+(rrl& method are mandatory)
+
+-state lifting
+parent to child only data transfer possible (by default)
+so common parent through data can be passed
+
+-to show data in multilple line use attribute multiline(in case of summary displaying while clicking edit)
+-in js a library to generate pdf in js
+        -jspdf
+-webpage nte portion sreenshort edukan use-library
+        -html2canvas
+-claud based platform called claudinary used to upload aand manage images and videos
+    -it genarates a short url to access that image or video
+
+    *FORM DATA-while we communicate from froned to backend through api call and if it includes medias(like file,text),we cant pass directly.iit have to be in the form of form data 
